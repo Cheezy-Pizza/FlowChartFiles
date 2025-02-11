@@ -47,7 +47,7 @@
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-16" value="794.38Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-18" value="212.57nF&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-18" value="212.58nF&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="548" y="354" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;startFill=0;" parent="1" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-29" value="C&lt;sub&gt;p&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="801" y="354" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-30" value="R&lt;sub&gt;g&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-30" value="R&lt;sub&gt;c&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="765" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-31" value="10V PK-PK&lt;br&gt;1 kHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -196,7 +196,7 @@
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-64" value="L&lt;sub&gt;p&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="813" y="738" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-65" value="R&lt;sub&gt;S&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-65" value="R&lt;sub&gt;c&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="765" y="833" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-66" value="2V PK-PK&lt;br&gt;1 kHz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -205,7 +205,7 @@
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-67" value="267.73 Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="741" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-68" value="&lt;div&gt;61.03&lt;/div&gt;&lt;div&gt;mH&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3kMcsqvNUtZJ2rkJe0aM-68" value="&lt;div&gt;61.04&lt;/div&gt;&lt;div&gt;mH&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="861" y="739" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kMcsqvNUtZJ2rkJe0aM-69" value="10 Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -314,20 +314,20 @@
         <mxCell id="odc1BeVdU-imwH_6aEnR-17" value="R&lt;sub&gt;p =&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271.62" y="596" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odc1BeVdU-imwH_6aEnR-18" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (180Ω)&lt;sup&gt;2&lt;/sup&gt;(20mH)&lt;sup&gt;2 &amp;nbsp;&lt;/sup&gt;&amp;nbsp; &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;180Ω&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="odc1BeVdU-imwH_6aEnR-18" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (180Ω)&lt;sup&gt;2&lt;/sup&gt;+(20mH)&lt;sup&gt;2 &amp;nbsp;&lt;/sup&gt;&amp;nbsp; &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;180Ω&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="308.37" y="600" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odc1BeVdU-imwH_6aEnR-19" value="= 267.73Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="424.13" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="425.13" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odc1BeVdU-imwH_6aEnR-20" value="X&lt;sub&gt;p =&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271.62" y="526" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odc1BeVdU-imwH_6aEnR-21" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (125.66Ω)&lt;sup&gt;2&lt;/sup&gt;(&lt;/u&gt;&lt;u&gt;180Ω&lt;/u&gt;&lt;u&gt;)&lt;sup&gt;2 &amp;nbsp;&lt;/sup&gt;&amp;nbsp; &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;125.66Ω&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310.37" y="529" width="130.76" height="30" as="geometry" />
+        <mxCell id="odc1BeVdU-imwH_6aEnR-21" value="&lt;div&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; (125.66Ω)&lt;sup&gt;2&lt;/sup&gt;+(&lt;/u&gt;&lt;u&gt;180Ω&lt;/u&gt;&lt;u&gt;)&lt;sup&gt;2 &amp;nbsp;&lt;/sup&gt;&amp;nbsp; &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;125.66Ω&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310.37" y="529" width="139.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odc1BeVdU-imwH_6aEnR-22" value="= 383.49Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="433.19" y="528" width="60" height="30" as="geometry" />
+          <mxGeometry x="444.37" y="529" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odc1BeVdU-imwH_6aEnR-24" value="X&lt;sub&gt;p&lt;/sub&gt; =" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271.62" y="90" width="60" height="30" as="geometry" />
@@ -344,7 +344,7 @@
         <mxCell id="odc1BeVdU-imwH_6aEnR-31" value="&lt;div&gt;&lt;u&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 1 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2*π*1kHz*748.69Ω&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304" y="178" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odc1BeVdU-imwH_6aEnR-32" value="= 212.57nF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="odc1BeVdU-imwH_6aEnR-32" value="= 212.58nF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="418.74" y="169" width="76.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odc1BeVdU-imwH_6aEnR-35" value="X&lt;sub&gt;s &lt;/sub&gt;= 2*π*1kHz*20mH = 125.66Ω" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -356,7 +356,7 @@
         <mxCell id="odc1BeVdU-imwH_6aEnR-37" value="&lt;div&gt;&lt;u&gt;&amp;nbsp; 383.49Ω&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;2*π*1kHz&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="308.37" y="566" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odc1BeVdU-imwH_6aEnR-38" value="= 61.03mH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="odc1BeVdU-imwH_6aEnR-38" value="= 61.04mH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361.37" y="565" width="101.63" height="30" as="geometry" />
         </mxCell>
       </root>
